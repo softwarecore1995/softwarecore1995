@@ -14,6 +14,7 @@ I build intelligent systems and full-stack applications—from research and mode
 | **Backend** | APIs, services, data pipelines, and infra that ship models to production. |
 | **Frontend** | UIs and dashboards that make AI usable for real users. |
 
+
 ---
 
 ## AI / ML Stack
