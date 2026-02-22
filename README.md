@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy Santos
+# Hi,
 
 ### Senior Software Developer · AI Engineer
 
