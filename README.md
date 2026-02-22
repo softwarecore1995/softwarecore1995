@@ -58,13 +58,4 @@ I build intelligent systems and full-stack applications—from research and mode
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softwarecore1995&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarecore1995&layout=compact&theme=default&hide_border=true" alt="Top languages" width="350" />
-</p>
-
----
-
 *Building the bridge between AI research and production software.*
