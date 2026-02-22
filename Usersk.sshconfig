@@ -1,6 +1,0 @@
-
-
-Host github-softwarecore
-  HostName github.com
-  User git
-  IdentityFile C:\Users\k\.ssh\id_ed25519_softwarecore
