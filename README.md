@@ -1,4 +1,4 @@
-### Senior Software Developer · AI Engineer
+### Senior Full Stack AI Engineer
 
 I build intelligent systems and full-stack applications—from research and model design to production APIs and UIs.
 
