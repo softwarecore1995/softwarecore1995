@@ -1,5 +1,4 @@
 
-### Austin Bolneo
 #### Senior Software Engineer
 
 I design and build ERP-integrated, full-stack web platforms using C#, Node.js, React, TypeScript, and MSSQL.
