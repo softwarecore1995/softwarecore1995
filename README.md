@@ -1,61 +1,76 @@
-### Senior Full Stack AI Engineer
 
-I build intelligent systems and full-stack applications—from research and model design to production APIs and UIs.
+### Austin Bolneo
+#### Senior Software Engineer
 
----
-
-## What I Do
-
-| Focus | Description |
-|-------|-------------|
-| **AI / ML** | Model design, training pipelines, LLM integration, RAG, agents, and MLOps. |
-| **Backend** | APIs, services, data pipelines, and infra that ship models to production. |
-| **Frontend** | UIs and dashboards that make AI usable for real users. |
+I design and build ERP-integrated, full-stack web platforms using C#, Node.js, React, TypeScript, and MSSQL.
 
 ---
 
-## AI / ML Stack
+## About Me
 
-**Core & deep learning**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=flat&logo=jax&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+Senior Software Engineer with 10+ years of experience in ERP integration and end-to-end web development across startup and enterprise environments. I focus on building scalable backend services, customer-facing applications, and internal automation platforms that improve delivery speed and operational reliability.
 
-**Classical ML & frameworks**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-3A8E3A?style=flat&logo=lightgbm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+I have hands-on experience with SAP Business One ecosystems, REST and GraphQL services, and production support for multi-region teams and customers.
 
-**LLMs & generative AI**  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2D5B2A?style=flat&logo=llamaindex&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
+---
 
-**Vector DBs & RAG**  
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FFFFFF?style=flat&logo=chroma&logoColor=black)
-![Weaviate](https://img.shields.io/badge/Weaviate-00A878?style=flat&logo=weaviate&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00B4D8?style=flat&logo=meta&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=flat&logo=qdrant&logoColor=white)
+## Technical Stack
 
-**MLOps & experiment tracking**  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![Weights_&_Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material_UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
+
+### Backend
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST_API-005571?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=flat)
+
+### Databases
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SAP_HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### ERP and Enterprise
+![SAP_Business_One](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP_B1i](https://img.shields.io/badge/SAP_B1i-0FAAFF?style=flat&logo=sap&logoColor=white)
+![ERP_Integration](https://img.shields.io/badge/ERP_Integration-1F6FEB?style=flat)
+![Process_Automation](https://img.shields.io/badge/Process_Automation-2563EB?style=flat)
+
+### Testing and DevOps
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-3C873A?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-0EA5E9?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
-*Building the bridge between AI research and production software.*
+## Highlights
+
+- 10+ years in full-stack development and backend integration delivery.
+- Built ERP-connected workflows and customizations for global customers.
+- Improved release velocity, support turnaround, and platform reliability across multiple teams.
+- Strong collaboration with customer-facing stakeholders, support, and cross-functional engineering groups.
+
+---
+
+## Contact
+
+- Email: austin.bolneo@outlook.com
+- Location: Bocaue, Bulacan, Philippines
